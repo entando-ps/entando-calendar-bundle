@@ -1,7 +1,7 @@
 code: Calendar
 description: Calendar PBC
 components:
-  plugins:
-    - plugins/entando-template-ms-plugin.yaml
+  # plugins:
+  #  - plugins/entando-template-ms-plugin.yaml
   widgets:
     - ui/widgets/widgets-dir/calendar-mfe/calendar-mfe-descriptor.yaml
