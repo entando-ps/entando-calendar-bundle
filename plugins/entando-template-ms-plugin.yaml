@@ -1,0 +1,7 @@
+image: davdet/calendar-pbc:0.0.1-SNAPSHOT
+dbms: none
+ingressPath: "/calendar-pbc"
+healthCheckPath: "/actuator/health"
+roles:
+  - "et-first-role"
+  - "et-second-role"

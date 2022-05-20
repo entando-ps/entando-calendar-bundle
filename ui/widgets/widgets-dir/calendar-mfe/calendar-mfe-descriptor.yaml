@@ -1,0 +1,6 @@
+code: calendar-mfe
+titles:
+  en: Calendar MFE
+  it: Calendar MFE
+group: free
+customUiPath: calendar-mfe.ftl
